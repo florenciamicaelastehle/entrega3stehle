@@ -1,0 +1,36 @@
+body{
+    height: 100%;
+    width: 100%;
+    background: rgb(152,48,196);
+    background: linear-gradient(180deg, rgba(152,48,196,0.7483368347338936) 0%, rgba(232,51,237,0.4738270308123249) 51%, rgba(180,4,170,0.7455357142857143) 100%);
+}
+
+#seccionUno {
+    padding: 40px;
+   } 
+   
+   #contenidoPrincipal { 
+       padding: 20px;
+   
+   }
+    main div p {
+       padding-top: 50px;
+   }
+   
+footer {
+    height:50px;
+    background-color: black;
+    font-size: pink;
+}
+
+
+li {background-color: black;}
+
+.btn {
+    width: 30px;
+    height: 20px;
+    background-color: black;
+    color: white;
+    border: 10px solid black;
+    border-radius: 5px ;
+}

@@ -1,0 +1,45 @@
+.calificacion:hover {
+  height: 200px;
+  width: 625px;
+  padding: 20px;
+  background-color: black;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  background: rgb(152, 48, 196);
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(152, 48, 196, 0.7483368347)), color-stop(51%, rgba(232, 51, 237, 0.4738270308)), to(rgba(180, 4, 170, 0.7455357143)));
+  background: linear-gradient(180deg, rgba(152, 48, 196, 0.7483368347) 0%, rgba(232, 51, 237, 0.4738270308) 51%, rgba(180, 4, 170, 0.7455357143) 100%);
+}
+
+#seccionUno {
+  padding: 40px;
+}
+
+#contenidoPrincipal {
+  padding: 20px;
+}
+
+main div p {
+  padding-top: 50px;
+}
+
+footer {
+  height: 50px;
+  background-color: black;
+  font-size: pink;
+}
+
+li {
+  background-color: black;
+}
+
+.btn {
+  width: 30px;
+  height: 20px;
+  background-color: black;
+  color: white;
+  border: 10px solid black;
+  border-radius: 5px;
+}
