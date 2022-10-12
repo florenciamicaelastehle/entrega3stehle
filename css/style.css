@@ -31,7 +31,10 @@ footer {
   font-size: pink;
 }
 
-li {
+ul {
+  background-color: pink;
+}
+ul li {
   background-color: black;
 }
 
